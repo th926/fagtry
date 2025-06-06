@@ -282,6 +282,7 @@ int main(int argc, char **argv) {
                 }
                 if (!strcmp(argv[x + 1], "-n")) {
                     task = argv[x + 2];
+                    // this needs a loop to handle input
                     complete(*writer, task);
                     return 0;
                 } else {
