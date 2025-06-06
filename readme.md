@@ -1,6 +1,9 @@
 # WILLDO
 (software by genious inventions (copyright, trademark and total ownershit do not steal))
 
+Jeg prøvde på ordspill. Fagprøve, men vil ikke ha 'ø' i navnet og prøve på engelsk er try. Så fagprøve blir fagtry. Bare så det er klart
+https://github.com/th926/fagtry
+
 ## Compiling
 You will need:
 1. Meson
